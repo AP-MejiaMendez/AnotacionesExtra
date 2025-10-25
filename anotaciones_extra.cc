@@ -4,7 +4,7 @@
     * git clone <url-del-repositorio>
     * git config --global user.name "Tu Nombre"
     * git config --global user.email "tuemail@example.com"
-    * git config --global --list
+    * git config --global --list a
     * git config --global --unset user.name
     * git config --global --unset user.email
     * Listar ramas locales
